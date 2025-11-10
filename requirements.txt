@@ -1,0 +1,5 @@
+Flask
+openai
+python-dotenv
+pypdf
+gunicorn  # 💡 خادم الإنتاج الجديد
